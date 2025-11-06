@@ -1,4 +1,4 @@
-# [<img src="source/_static/logo.jpg" alt="Labiteers Logo" width="50" style="vertical-align: -58px; margin-right: 10px;">](https://docs.labiteers.com) Labiteers Documentation
+# [<img src="source/_static/logo.jpg" alt="Labiteers Logo" width="100" style="vertical-align: -58px; margin-right: 10px;">](https://docs.labiteers.com) Labiteers Documentation
 
 <!-- <h1>
   <a href="https://docs.labiteers.com" style="text-decoration: none;">
