@@ -18,7 +18,7 @@ make html
 sphinx-autobuild source build/html
 ``` -->
 
-# [<img src="source/_static/logo.jpg" alt="Labiteers Logo" width="50" style="vertical-align: middle; margin-right: 10px;">](https://docs.labiteers.com) Labiteers Documentation
+# [<img src="source/_static/logo.jpg" alt="Labiteers Logo" width="50" style="vertical-align: middle; margin-right: 10px; margin-top: 10px">](https://docs.labiteers.com) Labiteers Documentation
 
 This repository contains the official documentation for **Labiteers Ltd.**’s SaaS platform.  
 You can view the live version at [**docs.labiteers.com**](https://docs.labiteers.com).
