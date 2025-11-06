@@ -1,4 +1,4 @@
-Configure Cloud Settings
-========================
+Configure the cloud settings 
+============================
 
 xxxx
