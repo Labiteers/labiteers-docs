@@ -1,0 +1,89 @@
+/* ---------------------------------------------
+   Custom CSS for Labiteers Insipid Sphinx Docs
+   --------------------------------------------- */
+
+/* 1️⃣ Collapsible TOC for page-level index */
+
+/* Remove theme’s default marker */
+details summary::marker,
+details summary::before {
+    content: none !important;
+}
+
+/* Style <summary> headers */
+details summary {
+    cursor: pointer !important;
+    font-weight: bold !important;
+    margin-bottom: 4px;
+    padding-left: 1.5em;  /* space for the arrow */
+    list-style: none !important;
+    display: inline-block;
+}
+
+/* Hover effect */
+details summary:hover {
+    color: #0055ff !important;
+}
+
+/* Remove bullets for nested list */
+details ul {
+    list-style: none;
+    padding-left: 1em;
+}
+
+/* Add left arrow using ::before */
+details summary::before {
+    content: "▶" !important;  /* collapsed arrow */
+    display: inline-block !important;
+    width: 1em;
+    margin-left: -1.5em;  /* move into the padding space */
+    margin-right: 0.5em;
+}
+
+/* Expanded arrow */
+details[open] summary::before {
+    content: "▼" !important;
+}
+
+/* 2️⃣ Sidebar logo resize */
+img[alt="Labiteers"] {
+    max-height: 50px;
+    height: auto;
+}
+
+/* 3️⃣ Sidebar link font size and spacing */
+.md-sidebar .md-nav__link {
+    font-size: 0.9em;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+/* 4️⃣ Optional: subtle hover effect on sidebar links */
+.md-sidebar .md-nav__link:hover {
+    background-color: rgba(0, 85, 255, 0.1);
+}
+
+/* 5️⃣ Hide the root TOC link in sidebar (duplicate issue) */
+.md-sidebar .md-nav__link:first-child {
+    display: none;
+}
+
+/* ---------------------------------------------
+   Logo in Sidebar
+   --------------------------------------------- */
+
+   .sidebar-logo {
+    text-align: center;
+    margin: 1em 0;
+}
+
+.sidebar-logo img {
+    max-width: 120px;
+    height: auto;
+    border-radius: 8px; /* optional: makes corners softer */
+    transition: transform 0.2s ease-in-out;
+}
+
+.sidebar-logo img:hover {
+    transform: scale(1.05); /* slight hover zoom effect */
+}
