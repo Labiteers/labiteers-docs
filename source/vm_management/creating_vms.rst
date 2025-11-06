@@ -1,6 +1,8 @@
 How to create a VM 
 ==================
 
-.. important::
+.. image:: ./images/create_vm.png
+   :alt: Create VM menu
+   :width: 100%
+   :align: left
 
-   At present, up to 50 virtual machines can be created at the same time. 

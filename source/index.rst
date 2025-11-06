@@ -53,6 +53,7 @@ Labiteers User Guide
        <li><a href="vm_management/creating_vms.html">Create a virtual machine</a></li>
        <li><a href="vm_management/allocating_vms.html">Allocate virtual machines</a></li>
        <li><a href="vm_management/listing_resources.html">List virtual machines</a></li>
+       <li><a href="vm_management/limitations.html">Limitations</a></li>
      </ul>
    </details>
 

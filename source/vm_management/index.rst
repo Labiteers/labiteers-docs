@@ -8,3 +8,4 @@ VM Management
    listing_resources
    creating_vms
    allocating_vms
+   limitations 
