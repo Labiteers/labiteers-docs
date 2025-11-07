@@ -1,16 +1,29 @@
-Supported resources 
+Supported resources
 ===================
 
-.. csv-table:: 
-   :header: "Location", "Operating System", "OS Version", "VM Size", "Disk Size"
+.. list-table::
+   :header-rows: 1
+   :widths: 100
 
-   "East US", "Windows Server", "22.04 LTS", "t3.medium", "50 GB"
-   "East US", "Windows Server", "2019", "t3.large", "100 GB"
-   "West Europe", "Ubuntu Server", "22.04 LTS", "t3.medium", "50 GB"
-   "East US", "Windows Server", "2019", "t3.large", "100 GB"
-   "West Europe", "Ubuntu Server", "22.04 LTS", "t3.medium", "50 GB"
-   "East US", "Windows Server", "2019", "t3.large", "100 GB"
-   "West Europe", "Ubuntu Server", "22.04 LTS", "t3.medium", "50 GB"
-   "East US", "Windows Server", "2019", "t3.large", "100 GB"
-   "West Europe", "Ubuntu Server", "22.04 LTS", "t3.medium", "50 GB"
-   "East US", "Windows Server", "2019", "t3.large", "100 GB"
+   * - Locations
+   * - East US
+   * - Central Canada
+   * - UK South
+   * - Australia East
+   * - Southeast Asia
+   * - East US 2
+   * - West US 2
+   * - Central India
+   * - West Europe
+   * - North Europe
+
+.. list-table::
+   :header-rows: 1
+   :widths: 100
+
+   * - Operating Systems
+   * - Windows Server, 2022 Datacenter
+   * - Windows Server, 2019 Datacenter
+   * - CentOS, 8.5
+   * - CentOS, 7.9
+   * - Ubuntu Server, 22.04 LTS
