@@ -26,7 +26,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title="Labiteers User Guide"
+html_title = 'Labiteers User Guide'
 html_theme = 'insipid'
 html_use_index = False
 html_static_path = ['_static']
@@ -47,3 +47,13 @@ html_sidebars = {
         "searchbox.html"        # search field
     ]
 }
+
+# Dynamic release version based on Git commit count
+import subprocess
+try:
+    commit_count = subprocess.check_output(
+        ["git", "rev-list", "--count", "HEAD"], universal_newlines=True
+    ).strip()
+    release = f"1.0.{commit_count}"
+except Exception:
+    release = "1.0.0"
