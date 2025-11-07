@@ -1,7 +1,7 @@
 Upload users 
 ============
 
-To upload your list of users, go to Users and click the Upload (up arrow) icon.
+To upload your list of users, go to **Users** and click the **Upload (up arrow)** icon.
 
 .. important::
     The users must be uploaded in the format specified in the downloaded template.

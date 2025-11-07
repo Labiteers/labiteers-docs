@@ -10,3 +10,4 @@ Once all fields are filled in, click **Create VM** to complete the process.
    :width: 100%
    :align: left
 
+After the virtual machine is launched, it appears under the **List Resources** menu.
