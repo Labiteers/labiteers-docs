@@ -1,12 +1,19 @@
 Create an account
 =================
 
-To create an account on Labiteers, ...
+To create an account on Labiteers, supply the following details:
+
+- Your full name
+- Your email address
+- Your password
+- Your card number
 
 .. image:: ./images/create_account.png
    :alt: Create VM menu
    :width: 100%
    :align: left
+
+   
 
 .. note::
 
