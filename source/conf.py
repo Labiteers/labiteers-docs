@@ -26,6 +26,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
+html_title="Labiteers User Guide"
 html_theme = 'insipid'
 html_use_index = False
 html_static_path = ['_static']
