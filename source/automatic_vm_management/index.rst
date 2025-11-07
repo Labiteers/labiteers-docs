@@ -1,7 +1,7 @@
 Automatic VM Management
 =======================
 
-Automatic VM management is designed to help you reduce costs by automatically stopping unused VMs or deleting them after a period of inactivity.
+Automatic VM management is designed to help you reduce costs by automatically stopping or deleting unused VMs.
 
 1) Navigate to **Settings**.
 
