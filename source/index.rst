@@ -7,7 +7,7 @@ Labiteers User Guide
 
 .. raw:: html
 
-   <details open>
+   <details>
      <summary>Introduction</summary>
      <ul>
        <li><a href="introduction/what_is_labiteers.html">What is Labiteers?</a></li>
@@ -16,7 +16,7 @@ Labiteers User Guide
 
 .. raw:: html
 
-   <details open>
+   <details>
      <summary>Getting Started</summary>
      <ul>
        <li><a href="getting_started/prerequisites.html">Prerequisites</a></li>
