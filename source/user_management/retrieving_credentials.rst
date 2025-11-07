@@ -1,4 +1,4 @@
-Retrieve Users' Credentials 
-===========================
+Retrieve user credentials 
+=========================
 
 xxxx

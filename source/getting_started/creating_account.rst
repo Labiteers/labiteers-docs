@@ -10,10 +10,10 @@ To create an account on Labiteers, supply the following details:
 
 .. image:: ./images/create_account.png
    :alt: Create VM menu
-   :width: 100%
+   :width: 60%
    :align: left
 
-   
+
 
 .. note::
 
