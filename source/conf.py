@@ -30,7 +30,7 @@ exclude_patterns = []
 html_theme = 'insipid'
 html_use_index = False
 html_static_path = ['_static']
-html_favicon = "_static/favicon.jpg"
+html_favicon = "_static/favicon.png"
 html_theme_options = {
     'sidebarwidth': 220,  # pixels
 }
