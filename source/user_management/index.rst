@@ -1,7 +1,7 @@
 User Management
 ===============
 
-This section guides you through the first steps of using Labiteers.
+This section guides you through the steps of importing your student base into Labiteers.
 
 .. toctree::
    :maxdepth: 2

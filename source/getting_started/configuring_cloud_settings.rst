@@ -5,6 +5,10 @@ To configure your cloud settings and integrate Labiteers with Microsoft Azure:
 
 1) Click your name in the bottom-left corner and select **Cloud Settings**.
 
+    .. image:: ./images/cloud_settings.png
+       :alt: Open cloud settings
+       :width: 60%
+
 2) Fill in the required fields and select **Save Settings**.
 
     .. image:: ./images/configure_cloud_settings.png

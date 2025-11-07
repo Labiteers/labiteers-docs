@@ -18,4 +18,5 @@ Create an account
 
 .. note::
 
-   Upon creating an account
+   After creating an account, you will automatically start a 7-day free trial without being charged.
+   At the end of the trial, you must subscribe to a plan to continue using the platform. 
